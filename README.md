@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Piyush from India , curently a student learning and exploring tech. Currently I am actively learning backend and have a litle experience in HTML, CSS , Javascript , Python , Java. 
+I'm Piyush from India , curently a student learning and exploring tech. Currently I am actively learning backend and have a litle experience in Web Deb , Python , Java. 
 I can find me at <a href="https://twitter.com/piyu1219">twitter<a> 
 <!--
 **piyush169/piyush169** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
